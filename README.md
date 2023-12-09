@@ -1,4 +1,4 @@
-# Multi-branch Attention Network (MBAN) for small object
+# Multi-branch Attention Network (MBAN) for small object detection
 
 # Dataset
 
