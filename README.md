@@ -5,9 +5,6 @@
 1. PASCAL VOC: http://host.robots.ox.ac.uk/pascal/VOC/
 2. NWPU VHR-10: https://github.com/Gaoshuaikun/NWPU-VHR-10
 
-## Code
-The code is in the branch master.
-
 ## Train
 1. This article uses the VOC format for training Before training, put the label file in the Annotation under the VOC2007 folder under the VOCdevkit folder. Before training, put the image files in JPEGImages under the VOC2007 folder under the VOCdevkit folder.
 2. Use voc_annotation.py to get 2007_train.txt and 2007_val.txt for training.
